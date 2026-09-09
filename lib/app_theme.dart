@@ -5,7 +5,7 @@ import 'package:flutter/rendering.dart';
 class AppTheme {
   static ThemeData lightTheme = ThemeData();
   static ThemeData darkTheme = ThemeData(
-    scaffoldBackgroundColor: black,
+    // scaffoldBackgroundColor: black,
     bottomNavigationBarTheme: BottomNavigationBarThemeData(
       backgroundColor: primary,
       showUnselectedLabels: false,
